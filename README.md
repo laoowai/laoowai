@@ -3,6 +3,8 @@
 <!--START_SECTION:laoowai-->
 <!--END_SECTION:laoowai-->
 
+**Iurii Rusalev** 
+
 <!--
 **laoowai/laoowai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
