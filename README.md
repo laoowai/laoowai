@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+I am **Iurii Rusalev** ⚡ 
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-**Iurii Rusalev** 
+
 
 <!--
 **laoowai/laoowai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
