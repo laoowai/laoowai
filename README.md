@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--START_SECTION:laoowai-->
-<!--END_SECTION:laoowai-->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 **Iurii Rusalev** 
 
