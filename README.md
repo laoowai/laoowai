@@ -2,8 +2,6 @@
 
 I am **Iurii Rusalev** ⚡ 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 
 
 <!--
